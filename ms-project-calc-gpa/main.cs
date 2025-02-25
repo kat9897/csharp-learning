@@ -35,11 +35,11 @@ totalGradePoints += course3Credit * course3Grade;
 totalGradePoints += course4Credit * course4Grade;
 totalGradePoints += course5Credit * course5Grade;
 
-decimal gradePointAverage = (decimal) totalGradePoints/totalCreditHours;
+decimal gradePointAverage = (decimal)totalGradePoints / totalCreditHours;
 
-int leadingDigit = (int) gradePointAverage;
-int firstDigit = (int) (gradePointAverage * 10) % 10;
-int secondDigit = (int) (gradePointAverage * 100 ) % 10;
+int leadingDigit = (int)gradePointAverage;
+int firstDigit = (int)(gradePointAverage * 10) % 10;
+int secondDigit = (int)(gradePointAverage * 100) % 10;
 
 // Student name
 Console.WriteLine($"Student: {studentName}\n");
