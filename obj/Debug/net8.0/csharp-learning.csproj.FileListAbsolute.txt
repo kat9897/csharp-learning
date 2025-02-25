@@ -1,5 +1,0 @@
-C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\obj\Debug\net8.0\csharp-learning.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\obj\Debug\net8.0\csharp-learning.AssemblyInfoInputs.cache
-C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\obj\Debug\net8.0\csharp-learning.AssemblyInfo.cs
-C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\obj\Debug\net8.0\csharp-learning.csproj.CoreCompileInputs.cache
-C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\obj\Debug\net8.0\csharp-learning.sourcelink.json

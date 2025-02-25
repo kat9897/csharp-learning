@@ -1,0 +1,15 @@
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\katri\OneDrive\Documents\GitHub\csharp-learning\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
